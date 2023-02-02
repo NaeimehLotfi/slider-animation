@@ -20,4 +20,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/naeimeh.lotfi_web) and [linkedin](https://www.linkedin.com/in/)
+- How to reach me : with my [instagram](https://www.instagram.com/naeimeh.lotfi.web) and [linkedin](https://www.linkedin.com/in/)
